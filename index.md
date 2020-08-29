@@ -1,5 +1,5 @@
 # GETTING STARTED WITH GUESSING GAME
-## This is your guide to the game!</h2>
+## This is your guide to the game!
         
 This Guess is purely written in bash and from scratch and utilize function, a loop and conditional statement
 Here is souce code of the bash script which power this game
